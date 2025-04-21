@@ -1,6 +1,6 @@
 # Bixo Pet — CRUD (Disciplina de Computação em Nuvem, UTFPR)
 
-Este é o trabalho acadêmico da disciplina de **Computação em Nuvem** da UTFPR. Tratase de uma aplicação web CRUD para gerenciar clientes e seus pets, virtualizada em máquinas multipass.
+Este é o trabalho acadêmico da disciplina de **Computação em Nuvem** da UTFPR. Trata-se de uma aplicação web CRUD para gerenciar clientes e seus pets, virtualizada em máquinas multipass.
 
 ---
 
