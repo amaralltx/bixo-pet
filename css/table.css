@@ -1,0 +1,105 @@
+.div-table { 
+    color: var(--fonte);
+    background-color: white;
+    border-radius: 5px;
+    text-align: left;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    transform: all 0.3s ease-in-out;
+}
+
+.detail-row{
+    visibility: collapse;
+    background-color: #b83030;
+    transition: all 0.5s ease-in-out;
+  }
+
+  
+.crud-table {
+    min-width: 1300px;
+    table-layout: fixed;
+    border: 1px solid var(--principal);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.crud-table td:first-child, .crud-table th:first-child {
+    padding: 0rem;
+    padding-left: 2rem;
+}
+
+.crud-table td:nth-child(2), .crud-table th:nth-child(2) {
+    padding-left: 1.5rem;
+}
+
+.crud-table td:last-child {
+    padding-right: 1rem;
+}
+
+.crud-table th {
+    padding-right: 1.5rem;
+}
+
+.table-head {
+}
+
+.table-head tr {
+    height: 50px;
+}
+
+
+.edit-collum {
+    text-align: right;
+}
+
+.material-symbols-outlined {
+    scale: 0.9;
+    color: #87ac9a;
+    transition: all 0.2s ease-in-out;
+}
+
+.material-symbols-outlined:hover {
+    color: #74c97c;
+}
+
+tr > th, tr > td:nth-child(2) {
+    font-weight: 600;
+}
+tr > td:last-child {
+   display: flex;
+   justify-content: right;
+}
+tr > td:first-child {
+    margin-left: 2rem;
+}
+
+tr > td > button {
+    padding: 0.5rem 1rem;
+}
+
+
+tr > td:last-child > form > button:last-child:hover {
+    color: rgb(218, 85, 85);
+}
+
+tr > td > button, tr > td > form > button {
+    background-color: transparent;
+    color: rgb(115, 128, 126);
+}
+
+tr > td > button {
+    padding: 0;
+}
+
+
+tr > td:last-child > button:first-child:hover {
+    color: rgb(88, 219, 197);
+}
+
+tr > th:last-child {
+    text-align: right;
+ }
+
+tbody > :nth-child(even) {
+    background-color: #e8ece8;
+  }
