@@ -9,7 +9,7 @@ Este é o trabalho acadêmico da disciplina de **Computação em Nuvem** da UTFP
 Demonstrar a virtualização de uma aplicação web CRUD, separando:
 - **VM Web:** Apache2 + PHP (aplicação)
 - **VM Database:** MySQL Server (banco de dados)
-- **VM DNS:** BIND9 (resolução de `bixopet.local`)
+- **VM DNS:** BIND9 (resolução de `bixopet.com`)
 
 ---
 
