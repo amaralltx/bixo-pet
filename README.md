@@ -4,7 +4,7 @@ Este é o trabalho acadêmico da disciplina de **Computação em Nuvem** da UTFP
 
 ---
 
-## 📚 Objetivo
+## Objetivo
 
 Demonstrar a virtualização de uma aplicação web CRUD, separando:
 - **VM Web:** Apache2 + PHP (aplicação)
@@ -13,7 +13,7 @@ Demonstrar a virtualização de uma aplicação web CRUD, separando:
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - **Infraestrutura:** Multipass (Ubuntu 22.04 LTS)
 - **Web server:** Apache2
@@ -24,7 +24,7 @@ Demonstrar a virtualização de uma aplicação web CRUD, separando:
 
 ---
 
-## 📦 Estrutura de Arquivos
+## Estrutura de Arquivos
 
     /
     ├── index.php               # Página principal (lista de clientes)
